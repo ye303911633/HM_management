@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <h1>测试111111111111</h1>
+  <div class="">
+      测试合并------
   </div>
 </template>
 
@@ -10,5 +10,6 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style>
+
 </style>
